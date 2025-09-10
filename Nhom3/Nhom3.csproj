@@ -66,6 +66,12 @@
     <Compile Include="Thu.Designer.cs">
       <DependentUpon>Thu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tuyết.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tuyết.Designer.cs">
+      <DependentUpon>Tuyết.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
